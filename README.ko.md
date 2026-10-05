@@ -7,7 +7,7 @@ Claude와 Codex가 하나의 편집 기준 지침 파일을 공유하도록 정�
 ## 빠른 시작
 
 ```bash
-git clone https://github.com/ChickenBreast-ky/claude-codex-instruction-integration.git
+git clone https://github.com/fwkyle/claude-codex-instruction-integration.git
 cd claude-codex-instruction-integration
 ./scripts/install.sh
 ```

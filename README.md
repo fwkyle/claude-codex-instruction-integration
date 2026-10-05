@@ -7,7 +7,7 @@ Public skill for integrating Claude and Codex around one editable instruction so
 ## Quick Start
 
 ```bash
-git clone https://github.com/ChickenBreast-ky/claude-codex-instruction-integration.git
+git clone https://github.com/fwkyle/claude-codex-instruction-integration.git
 cd claude-codex-instruction-integration
 ./scripts/install.sh
 ```
